@@ -17,6 +17,10 @@
     <!-- Custom CSS -->
     <link href="css/style.css" rel="stylesheet">
 
+     <!-- jQuery added to top section so that AJAX can be performed before loading page -->
+    <script src="js/jquery.js"></script>
+
+
 </head>
 
 <body>
@@ -70,9 +74,7 @@
 
     <?php require_once("footer.php")?>
 
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-
+   
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/custom.js"></script>
