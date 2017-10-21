@@ -19,6 +19,7 @@
 
      <!-- jQuery added to top section so that AJAX can be performed before loading page -->
     <script src="js/jquery.js"></script>
+    <script src="js/ajax.js"></script>
 
 
 </head>
