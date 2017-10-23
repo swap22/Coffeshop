@@ -17,6 +17,12 @@
     <!-- Custom CSS -->
     <link href="css/style.css" rel="stylesheet">
 
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+    <!-- jQuery -->
+    <script src="js/loginAjax.js"></script>
+
+
 </head>
 
 <body>
